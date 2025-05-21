@@ -28,10 +28,10 @@ This project is a submission for the E-Commerce Course Assignment, demonstrating
 - [Unsplash](https://unsplash.com) for placeholder images
 
 ## Directory Structure
-ethio-leather/
-├── public/
-│ │ │ └── style.css
-│ │ │ └── script.js
-│ └── index.html
+EthioLeather/
+├── public/assets/screenshot.png
+│──style.css
+│── script.js
+│──index.html
 ├── README.md
 └── .gitignore
