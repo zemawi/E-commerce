@@ -1,6 +1,6 @@
 # EthioLeather - Authentic Ethiopian Leather Products
 
-![EthioLeather Banner](/public/assets/images/general/banner.jpg)
+![EthioLeather Banner](/public/assets/screenshot.png)
 
 ## Project Purpose
 This project is a submission for the E-Commerce Course Assignment, demonstrating the development of a single-page e-commerce website showcasing handcrafted Ethiopian leather products. The implementation focuses on core web technologies (HTML, CSS, JavaScript) to create a responsive, user-friendly interface with essential e-commerce features.
